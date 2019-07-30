@@ -1,4 +1,4 @@
-Restraunt
+Class: Restraunt
 
 Attributes:
 table_numbers(array)

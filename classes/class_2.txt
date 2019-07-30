@@ -4,7 +4,7 @@ Attributes:
 holds_fuel (boolean)
 tank_volume (integer)
 fuel_level (integer)
-Color (string)
+color (string)
 
 Methods:
 fuel-leak (changes hold_fuel to false)

@@ -1,0 +1,30 @@
+how to become a Turing student
+
+1 Go onto turing.io
+  1.1 Look at the two programs they offer
+    1.1.1 Read Front End Engineering info
+    1.1.2 Read Back End Engineering info
+  1.2 Click on apply now
+    1.2.1 Enter contact information
+    1.2.2 Submit Resume
+    1.2.3 Complete application
+  1.3 Invited to do LSAT logic problems
+    1.3.1 Work on 8 LSAT questions
+      1.3.1.1 Complete all 8 questions
+        1.3.1.1.1 Get 6 out 8 questions right
+  1.4 Invited to interview at Turing
+    1.4.1 Schedule day to go in for interview
+      1.4.1.1 Head down to Turing
+        1.4.1.1 Drive to light rail station
+          1.4.1.1 Take light-rail to Turing
+          1.4.1.2 Walk to Turing building
+          1.4.1.3 Walk downstairs to Turing
+            1.4.1.1.1 Arrive at Turing 15 minutes early
+  1.5 Interview with Turing
+    1.5.1 Work on 5 LSAT logic questions
+      1.5.1.1 Test is timed
+      1.5.1.2 Work on questions with interviewer
+    1.5.2 Answer questions about yourself
+      1.5.2.1 Try to answer questions the best you can
+  1.6 Receive an email
+    1.6.1 Receive an email that you have been accepted to Turing

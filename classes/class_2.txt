@@ -1,0 +1,12 @@
+Class: Car
+
+Attributes:
+holds_fuel (boolean)
+tank_volume (integer)
+fuel_level (integer)
+Color (string)
+
+Methods:
+fuel-leak (changes hold_fuel to false)
+paint_car (changes to 'blue')
+fill_up_tank (subtracts fuel_level from tank_volume and then adds it to fuel level)

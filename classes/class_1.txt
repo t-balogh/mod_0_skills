@@ -1,0 +1,13 @@
+Restraunt
+
+attributes:
+table_numbers(array)
+chairs(integer)
+smoking_section(boolean)
+non_smoking_section(boolean)
+bathroom_stalls(integer)
+
+methods:
+add_table(adds add_table to table_numbers in array)
+remove_chair(subtracts remove_chair to chairs)
+smoking(change smoking_section to True)

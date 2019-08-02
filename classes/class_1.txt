@@ -1,4 +1,4 @@
-Class: Restaurant
+Class - Restaurant
 
 Attributes:
 table_numbers(array)

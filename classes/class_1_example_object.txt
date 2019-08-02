@@ -1,4 +1,4 @@
-Class - Restraunt: Chili's
+Class - Restaurant: Chili's
 
 Attributes:
 table_numbers [table_1, table_2, table_3]

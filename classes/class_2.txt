@@ -1,12 +1,13 @@
-Class: Car
+Class: Delivery Car
 
 Attributes:
-holds_fuel(boolean)
 tank_volume(integer)
 fuel_level(integer)
 color(string)
+tire_psi(integer)
 
 Methods:
-fuel-leak(changes hold_fuel to false)
-paint_car(changes to 'blue')
-fill_up_tank(subtracts fuel_level from tank_volume and then adds it to fuel level)
+fuel-leaking(changes hold_fuel to false)
+painting_car(changes to 'blue')
+filling_up_gas_tank(subtracts fuel_level from tank_volume and then adds it to fuel level)
+tire_leaking_air(subtracts current psi level from tire_psi to get how much air psi the tire has lost)

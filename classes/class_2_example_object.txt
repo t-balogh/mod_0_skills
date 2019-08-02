@@ -1,12 +1,13 @@
 Class Focus
 
 Attributes:
-holds_fuel(True)
 tank_volume(16)
 fuel_level(8)
 color('red')
+tire_psi(35)
 
 Methods:
-fuel_leak(false)
-paint_car('blue')
-fill_up_tank(16 - 8  = 8 + 8 = 16)
+fuel_leaking(false)
+painting_car('blue')
+filling_up_tank(16 - 8  = 8 + 8 = 16)
+tire_leaking_air(35 - 28 = 7)

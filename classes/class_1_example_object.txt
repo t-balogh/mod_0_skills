@@ -4,10 +4,10 @@ Attributes:
 table_numbers [table_1, table_2, table_3]
 chairs(12)
 smoking_section(false)
-non_smoking_section(true)
-bathroom_stalls(4)
+menus(40)
 
 Methods:
 add_table [table_1, table_2, table_3, table_4] <<= table_4
-remove_chair(12 - 1 = 11)
-smoking(True)
+rearranging_tables(table_4, table_1, table_3, table_2)
+removing_chair(12 - 1 =11)
+printing_new_menus(40 menus - 40 old menus = 0 + 40 new menus)
